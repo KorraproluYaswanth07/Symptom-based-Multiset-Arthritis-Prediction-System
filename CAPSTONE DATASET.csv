@@ -1,0 +1,41 @@
+Age,Gender,Knee_Pain,Swelling,Small_Joint_Pain,Back_Stiffness,Hip_Pain,Crepitus,Joint_Deformity,Nail_Changes,Morning_Stiffness_Duration,Psoriasis_History,Family_History_Arthritis,Symmetrical_Pain,Eye_Inflammation,Exercise_Improves_Symptoms,Disease_Label
+62,Male,Severe,Moderate,None,Mild,Mild,Severe,Mild,None,Less than 30 minutes,No,Yes,No,No,No,Osteoarthritis
+67,Female,Severe,Mild,None,Mild,Moderate,Severe,Moderate,None,Less than 30 minutes,No,Yes,No,No,No,Osteoarthritis
+58,Male,Moderate,Mild,None,Mild,Mild,Severe,Mild,None,No stiffness,No,No,No,No,No,Osteoarthritis
+71,Female,Severe,Moderate,None,Mild,Severe,Severe,Moderate,None,Less than 30 minutes,No,Yes,No,No,No,Osteoarthritis
+60,Female,Moderate,Mild,None,Mild,Moderate,Moderate,Mild,None,Less than 30 minutes,No,No,No,No,No,Osteoarthritis
+65,Male,Severe,Moderate,None,Mild,Mild,Severe,Moderate,None,Less than 30 minutes,No,Yes,No,No,No,Osteoarthritis
+55,Female,Moderate,Mild,None,Mild,Mild,Moderate,Mild,None,No stiffness,No,No,No,No,No,Osteoarthritis
+73,Male,Severe,Moderate,None,Mild,Severe,Severe,Moderate,None,Less than 30 minutes,No,Yes,No,No,No,Osteoarthritis
+59,Female,Moderate,Mild,None,Mild,Mild,Moderate,Mild,None,Less than 30 minutes,No,No,No,No,No,Osteoarthritis
+68,Male,Severe,Moderate,None,Mild,Moderate,Severe,Moderate,None,Less than 30 minutes,No,Yes,No,No,No,Osteoarthritis
+48,Female,Moderate,Severe,Severe,Mild,None,None,Mild,None,More than 1 hour,No,Yes,Yes,No,No,Rheumatoid Arthritis
+42,Female,Moderate,Severe,Severe,Mild,None,None,Moderate,None,More than 1 hour,No,Yes,Yes,No,No,Rheumatoid Arthritis
+36,Male,Moderate,Severe,Severe,Mild,None,None,Mild,None,30-60 minutes,No,Yes,Yes,No,No,Rheumatoid Arthritis
+51,Female,Severe,Severe,Severe,Mild,Mild,None,Moderate,None,More than 1 hour,No,Yes,Yes,No,No,Rheumatoid Arthritis
+39,Female,Moderate,Moderate,Severe,Mild,None,None,Mild,None,More than 1 hour,No,Yes,Yes,No,No,Rheumatoid Arthritis
+44,Male,Moderate,Severe,Moderate,Mild,None,None,Mild,None,30-60 minutes,No,Yes,Yes,No,No,Rheumatoid Arthritis
+53,Female,Severe,Severe,Severe,Mild,Mild,None,Moderate,None,More than 1 hour,No,Yes,Yes,No,No,Rheumatoid Arthritis
+47,Female,Moderate,Severe,Severe,Mild,None,None,Moderate,None,More than 1 hour,No,Yes,Yes,No,No,Rheumatoid Arthritis
+34,Male,Moderate,Moderate,Severe,Mild,None,None,Mild,None,30-60 minutes,No,Yes,Yes,No,No,Rheumatoid Arthritis
+50,Female,Severe,Severe,Severe,Mild,Mild,None,Moderate,None,More than 1 hour,No,Yes,Yes,No,No,Rheumatoid Arthritis
+29,Male,Mild,Mild,None,Severe,Moderate,None,None,None,30-60 minutes,No,Yes,No,Yes,Yes,Ankylosing Spondylitis
+31,Male,Mild,Mild,None,Severe,Moderate,None,None,None,More than 1 hour,No,Yes,No,Yes,Yes,Ankylosing Spondylitis
+26,Male,Mild,None,None,Severe,Moderate,None,None,None,More than 1 hour,No,No,No,Yes,Yes,Ankylosing Spondylitis
+34,Male,Moderate,Mild,None,Severe,Severe,None,None,None,More than 1 hour,No,Yes,No,Yes,Yes,Ankylosing Spondylitis
+28,Female,Mild,None,None,Severe,Moderate,None,None,None,30-60 minutes,No,Yes,No,Yes,Yes,Ankylosing Spondylitis
+32,Male,Mild,Mild,None,Severe,Severe,None,None,None,More than 1 hour,No,Yes,No,Yes,Yes,Ankylosing Spondylitis
+30,Male,Moderate,Mild,None,Severe,Moderate,None,None,None,More than 1 hour,No,Yes,No,Yes,Yes,Ankylosing Spondylitis
+27,Female,Mild,None,None,Severe,Moderate,None,None,None,30-60 minutes,No,No,No,Yes,Yes,Ankylosing Spondylitis
+33,Male,Moderate,Mild,None,Severe,Severe,None,None,None,More than 1 hour,No,Yes,No,Yes,Yes,Ankylosing Spondylitis
+35,Male,Moderate,Mild,None,Severe,Severe,None,None,None,More than 1 hour,No,Yes,No,Yes,Yes,Ankylosing Spondylitis
+42,Female,Moderate,Moderate,Mild,Mild,None,Mild,Moderate,Severe,30-60 minutes,Yes,No,No,No,No,Psoriatic Arthritis
+45,Male,Moderate,Moderate,Moderate,Mild,None,Mild,Mild,Severe,30-60 minutes,Yes,Yes,No,No,No,Psoriatic Arthritis
+38,Female,Moderate,Moderate,Mild,Mild,None,Mild,Moderate,Severe,30-60 minutes,Yes,No,No,No,No,Psoriatic Arthritis
+41,Male,Moderate,Moderate,Moderate,Mild,None,Mild,Mild,Severe,30-60 minutes,Yes,Yes,No,No,No,Psoriatic Arthritis
+37,Female,Moderate,Moderate,Mild,Mild,None,Mild,Moderate,Severe,30-60 minutes,Yes,No,No,No,No,Psoriatic Arthritis
+49,Male,Moderate,Moderate,Moderate,Mild,None,Mild,Mild,Severe,30-60 minutes,Yes,Yes,No,No,No,Psoriatic Arthritis
+40,Female,Moderate,Moderate,Mild,Mild,None,Mild,Moderate,Severe,30-60 minutes,Yes,No,No,No,No,Psoriatic Arthritis
+46,Male,Moderate,Moderate,Moderate,Mild,None,Mild,Mild,Severe,30-60 minutes,Yes,Yes,No,No,No,Psoriatic Arthritis
+39,Female,Moderate,Moderate,Mild,Mild,None,Mild,Moderate,Severe,30-60 minutes,Yes,No,No,No,No,Psoriatic Arthritis
+43,Male,Moderate,Moderate,Moderate,Mild,None,Mild,Mild,Severe,30-60 minutes,Yes,Yes,No,No,No,Psoriatic Arthritis
